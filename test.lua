@@ -1,3 +1,4 @@
+-- add test
 local p = require "profiler"
 
 local function fact(n)
